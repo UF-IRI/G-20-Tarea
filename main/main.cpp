@@ -1,12 +1,18 @@
 #include <cstdlib>
 #include <iostream>
-
+#include "Funciones.h"
 #include "example.h"
+using namespace std;
 
 int main(int argc, char** argv)
 {
-    foobar::Example example{};
-    std::cout << "Example.getValue() => " << example.getValue() << std::endl;
+    float x1, y1, x2, y2;
+
+   cout<<"Ingrese x1, y1, x2 e y2"<<endl;
+   cin>>x1>>y1>>x2>>y2;
+   
+
+
 
     return EXIT_SUCCESS;
 }
