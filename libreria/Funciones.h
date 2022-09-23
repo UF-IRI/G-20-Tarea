@@ -1,6 +1,7 @@
 #pragma once
 #include <cmath>
 
+/*
 namespace foobar
 {
     struct Example
@@ -8,3 +9,4 @@ namespace foobar
         int getValue() const;
     };
 }
+*/

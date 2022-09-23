@@ -10,4 +10,7 @@ namespace foobar::tests
 		foobar::Example example{};
         ASSERT_THAT(example.getValue(), Eq(99));
 	}
+	TEST(DistTest, test){
+		ASSERT_FALSE(1==2);
+	}
 }
