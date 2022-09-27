@@ -1,7 +1,7 @@
-#include <cstdlib>
+
 #include <iostream>
 #include "Funciones.cpp"//escribiendo Funciones.cpp funciona.
-#include "example.h"
+
 using namespace std;
 
 int main(int argc, char** argv)
@@ -20,8 +20,6 @@ int main(int argc, char** argv)
    cin >> r;
    a = area(r);
    cout << "El area del circulo de radio " << r << " es: " << a << endl;
-
-
 
     return EXIT_SUCCESS;
 }
