@@ -1,5 +1,5 @@
 #pragma once
-
+/*
 namespace foobar
 {
     struct Example
@@ -7,3 +7,4 @@ namespace foobar
         int getValue() const;
     };
 }
+*/

@@ -1,5 +1,5 @@
 #include "example.h"
-
+/*
 namespace foobar
 {
     int Example::getValue() const
@@ -7,3 +7,4 @@ namespace foobar
         return 99;
     }
 }
+*/

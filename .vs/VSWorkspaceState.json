@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\libreria",
-    "\\main"
+    "\\main",
+    "\\out",
+    "\\unit-test"
   ],
-  "SelectedNode": "\\main\\main.cpp",
+  "SelectedNode": "\\unit-test\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
 }
