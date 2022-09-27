@@ -15,10 +15,12 @@ int main(int argc, char** argv)
    distancia = dist(x1, y1, x2, y2);
    cout << "la distancia que hay entre los dos puntos es: " << distancia << endl;
 
-   cout << "Ingrese el radio del circulo: " << endl;
-   cin >> r;
-   a = area(r);
-   cout << "El area del circulo de radio " << r << " es: " << a << endl;
+   distancia = dist(x1);
+   cout << "la distancia que hay entre los dos puntos es: " << endl;
+
+   
+
+
 
     return EXIT_SUCCESS;
 }
