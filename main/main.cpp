@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "Funciones.cpp"//escribiendo Funciones.cpp funciona.
+#include "Funciones.cpp"//escribiendo Funciones.h no funciona.
 
 using namespace std;
 
@@ -8,7 +8,7 @@ int main(int argc, char** argv)
 {
     float x1, y1, x2, y2;
     float distancia;
-    float r;
+    float r; //radio
     double a; //area del circulo
 
    cout << "Ingrese x1, y1, x2 e y2 respectivamente." << endl;
